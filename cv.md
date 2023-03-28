@@ -34,3 +34,12 @@ function simpleMultiplication(number) {
   }
 }
 ```
+## Education
+
+* University: PSU, radio engineering, electronics engineer
+* Courses: HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/ "Optional")
+
+## Languages
+
+* Russian - native speaker
+* English - A2
