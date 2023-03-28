@@ -12,3 +12,25 @@
 
 I like to be involved in the early stages of a project to get a clear idea of ​​the scope and direction of the tasks. I am at my best when I am allowed to use/demonstrate my own ingenuity and competence.
 I may not be that experienced, but I am someone you will want to meet and work with.
+
+## Skills
+
+* HTML
+* CSS/SCSS
+* Git/Github
+* Inspect, Figma
+
+## Code Example
+
+```
+function simpleMultiplication(number) {
+    // your code........
+  if (number % 2 == 0) {
+    return number * 8;
+  }
+  
+  else {
+    return number * 9;
+  }
+}
+```
